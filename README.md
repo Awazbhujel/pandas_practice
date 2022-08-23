@@ -1,4 +1,4 @@
-# pandas_practice
+# Pandas
 Pandas provides a large variety of methods aimed at manipulating and cleaning your data
 Missing data can be identified using the .isnull() method. Missing data can be counted per column by chaining in the .sum() method, which returns a Series of counts per column.
 Missing data can be removed using the .dropna() method, which can be customized using different parameters
